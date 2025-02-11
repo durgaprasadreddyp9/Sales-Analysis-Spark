@@ -5,7 +5,8 @@ This project analyzes sales data using Apache Spark (PySpark) to extract key bus
 The goal is to demonstrate big data processing using PySpark while implementing ETL (Extract, Transform, Load) operations and aggregations to derive meaningful insights.
 
 Results & Takeaways:
-
- Identified top spending customers & best-selling products
+Identified top spending customers & best-selling products
+ 
  Discovered seasonal trends in sales
+ 
  Assessed sales performance across locations
